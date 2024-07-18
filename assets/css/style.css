@@ -1,0 +1,18 @@
+@import url(fonts/fonts.css);
+
+:root {
+  --primary-grey: #848884;
+  --primaty-blue: #222831;
+  --primary-orange: #fd7014;
+  --primary-white: #fff;
+  --lighter-white: #fafafa;
+  --primary-light-purple: #b5bfe2;
+  --secondary-text: #e5e4e2;
+}
+
+* {
+  background: var(--primaty-color-blue);
+  font-family: "IBM plex Mono", monospace;
+  font-weight: 500;
+  color: var(--primary-grey);
+}
